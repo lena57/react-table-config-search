@@ -14,7 +14,6 @@ const FilterableProductTable = () => {
         setFilterText={setFilterText}
         setInStockOnly={setInStockOnly}
       />
-
       <ProductTable filterText={filterText} inStockOnly={inStockOnly} />
     </div>
   );

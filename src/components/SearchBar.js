@@ -2,10 +2,12 @@ import React from 'react';
 
 const SearchBar = ({filterText, inStockOnly, setInStockOnly, setFilterText}) => {
   return (
-    <div>
-      <form style={{margin: '50px'}}>
+    <div className="d-flex align-items-center justify-content-center" 
+    style={{ margin: '10px'}}>
+      <form  >
         <input type="text" placeholder="Search ..." value={filterText}
         onChange={(e)=>setFilterText(e.target.value)}
+        class="form-control"
         />
         <div>
         <br />

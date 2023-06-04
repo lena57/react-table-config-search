@@ -1,0 +1,79 @@
+[
+  { "category": "Fruits", "price": "$1.99", "stocked": true, "name": "Apple" },
+  {
+    "category": "Fruits",
+    "price": "$1.30",
+    "stocked": true,
+    "name": "Avocado"
+  },
+  { "category": "Fruits", "price": "$7.88", "stocked": true, "name": "Pear" },
+  {
+    "category": "Fruits",
+    "price": "$1.99",
+    "stocked": true,
+    "name": "Grape"
+  },
+  {
+    "category": "Fruits",
+    "price": "$2.99",
+    "stocked": false,
+    "name": "Lemon"
+  },
+  { "category": "Fruits", "price": "$8.20", "stocked": true, "name": "Orange" },
+  {
+    "category": "Fruits",
+    "price": "$11.09",
+    "stocked": true,
+    "name": "Dragonfruit"
+  },
+  {
+    "category": "Fruits",
+    "price": "$2.88",
+    "stocked": false,
+    "name": "Passionfruit"
+  },
+  {
+    "category": "Berry",
+    "price": "$2.85",
+    "stocked": false,
+    "name": "Strawberry"
+  },
+  {
+    "category": "Berry",
+    "price": "$2.99",
+    "stocked": true,
+    "name": "Plums"
+  },
+  {
+    "category": "Berry",
+    "price": "$12.00",
+    "stocked": true,
+    "name": "Raspberry"
+  },
+  {
+    "category": "Vegetables",
+    "price": "$4.12",
+    "stocked": false,
+    "name": "Cucumber"
+  },
+  
+  {
+    "category": "Vegetables",
+    "price": "$2.45",
+    "stocked": true,
+    "name": "Spinach"
+  },
+  {
+    "category": "Vegetables",
+    "price": "$4.50",
+    "stocked": false,
+    "name": "Pumpkin"
+  },
+  {
+    "category": "Vegetables",
+    "price": "$4.90",
+    "stocked": false,
+    "name": "Squash"
+  },
+  { "category": "Vegetables", "price": "$1.99", "stocked": true, "name": "Peas" }
+]
